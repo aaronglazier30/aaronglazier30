@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Aaron! 
+  
+<h2>📄 My Certifications:</h2>
+
+- [Google IT Support Professional](https://coursera.org/share/ff169b7007b160275ae64d60fee0b074)
+
+    
+<h2>👨‍💻 Technical Support Projects:</h2>
+
+- [Active Directory Home Lab]()
+
+
+
+<h2>📺 YouTube Videos</h2>
+
+
+
+
+
 
 <!--
-**aaronglazier30/aaronglazier30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
