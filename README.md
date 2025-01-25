@@ -10,8 +10,3 @@
 
 - [Active Directory Home Lab]()
 
-
-
-<h2>📺 YouTube Videos</h2>
-
-
