@@ -8,5 +8,7 @@
 
 <h2>👨‍💻 Technical Support Projects:</h2>
 
-- [Using Active Directory to create users and setup a Domain Controller](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
+- [Creating Users in Active Directory](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
+- [Using Active Directory to setup a Domain Controller](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
+- [Setting up a Internal Network Infrastructure](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
 
