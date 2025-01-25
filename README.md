@@ -9,5 +9,5 @@
 <h2>👨‍💻 Technical Support Projects:</h2>
 
 - [Creating Users in Active Directory Using Powershell](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
-- [Setting up a Domain Controller/Internal Network Infrastructure in Active Directory](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
+- [Setting up a Domain Controller/Internal Network Infrastructure](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
   
