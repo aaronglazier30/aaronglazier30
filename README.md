@@ -8,5 +8,5 @@
 
 <h2>👨‍💻 Technical Support Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
+- [Using Active Directory to Create users and setup a Domain Controller](https://github.com/aaronglazier30/ActiveDirectoryHomeLab/tree/main)
 
